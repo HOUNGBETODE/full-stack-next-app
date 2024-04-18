@@ -5,7 +5,7 @@ import { sql } from '@vercel/postgres';
 import { revalidatePath } from 'next/cache';
 import { redirect } from 'next/navigation';
 import { AuthError } from 'next-auth';
-import { signIn } from '../auth';
+import { signIn } from '../../auth';
  
 // This is temporary until @types/react-dom is updated
 export type State = {
