@@ -5,3 +5,13 @@ This is the starter template for the Next.js App Router Course. It contains the 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
 Go [here](https://nextjs-dashboard-nr2dcvioh-afrinics-projects.vercel.app/) to contemplate my deployed app but you need to setup a vercel account before.
+
+
+
+
+
+
+
+
+
+[user@nextmail.com:123456]
